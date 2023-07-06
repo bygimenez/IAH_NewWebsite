@@ -2,7 +2,7 @@
 
 Welcome to the official repository of the IA Hispano website. This repository serves as the central hub for the development and maintenance of the IA Hispano website.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/34e01aa8-2101-445b-9044-02b029bf58eb/deploy-status)](https://app.netlify.com/sites/elaborate-sherbet-de79a7/deploys)
+[![Netlify Status][(https://api.netlify.com/api/v1/badges/34e01aa8-2101-445b-9044-02b029bf58eb/deploy-status)](https://iahispanotest.netlify.app/]
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
