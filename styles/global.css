@@ -1,6 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   line-height: normal;
+  touch-action: none;
 }
 
 :root {
@@ -22,4 +28,10 @@ body {
   --br-214xl-5: 233.5px;
   --br-9xs: 4px;
   --br-8xs: 5px;
+  /* zoom fix */
+  -webkit-text-size-adjust: auto;
+}
+/* remove scrollbar */
+::-webkit-scrollbar {
+  display: none;
 }

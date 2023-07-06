@@ -384,7 +384,3 @@ button {
   text-decoration: none;
 }
 
-/* remove scrollbar */
-::-webkit-scrollbar {
-  display: none;
-}
