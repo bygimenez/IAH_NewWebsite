@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-nunito-sans: "Nunito Sans";
+  --font-inter: Inter;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-2xl: 21px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0.85);
+  --color-white: #fff;
+  --color-slateblue: #5454d4;
+
+  /* border radiuses */
+  --br-214xl-5: 233.5px;
+  --br-9xs: 4px;
+  --br-8xs: 5px;
+}
