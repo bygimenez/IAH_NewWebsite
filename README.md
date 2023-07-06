@@ -21,7 +21,7 @@ Contributors are encouraged to follow these code rules to maintain the integrity
 ## 📎 Useful links
 
 - [Access to Trello with all pending tasks ⏰](https://trello.com/b/w9jg37Bm/ia-hispano-web-development)
-- [Access to the Figma with all the designs of how the page should look like 🎨](https://www.figma.com/proto/uWhgqBnFpGIyiD6r3LFJVL/IA-Hispano)
+- [Access to the Figma with all the designs of how the page should look like 🎨](https://www.figma.com/file/X8TXPosZwoUeXlH7qcqCUP/IA-Hispano?type=design&node-id=0-1&mode=design&t=FJI4MLIFClEn29VH-0)
 
 ## 👥 Contributors
 
