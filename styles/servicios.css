@@ -147,7 +147,6 @@
   bottom: -2.38%;
   left: -0.55%;
   border-radius: 10px;
-  backdrop-filter: blur(2px);
   border: 2px solid var(--color-white);
   box-sizing: border-box;
 }
@@ -452,6 +451,10 @@
   width: 165px;
   height: 31px;
   color: #FFFFFF;
+  top: 46px;
+  left: 1649px;
+  text-align: center;
+  font-size: var(--font-size-lgi);
 }
 .contctanos {
   top: 0;
@@ -461,12 +464,7 @@
   justify-content: center;
   color:  #fff;
 }
-.texto-contactanos {
-  top: 46px;
-  left: 1649px;
-  text-align: center;
-  font-size: var(--font-size-lgi);
-}
+
 .luz {
 
   height: 600px;
