@@ -2,7 +2,7 @@
 
 Welcome to the official repository of the IA Hispano website. This repository serves as the central hub for the development and maintenance of the IA Hispano website.
 
-[![Netlify Status][(https://api.netlify.com/api/v1/badges/34e01aa8-2101-445b-9044-02b029bf58eb/deploy-status)](https://iahispanotest.netlify.app/]
+
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
@@ -22,7 +22,7 @@ Contributors are encouraged to follow these code rules to maintain the integrity
 
 - [Access to Trello with all pending tasks ⏰](https://trello.com/b/w9jg37Bm/ia-hispano-web-development)
 - [Access to the Figma with all the designs of how the page should look like 🎨](https://www.figma.com/file/X8TXPosZwoUeXlH7qcqCUP/IA-Hispano?type=design&node-id=0-1&mode=design&t=FJI4MLIFClEn29VH-0)
-
+- [Preview the website](https://iahispanotest.netlify.app)
 ## 👥 Contributors
 
 We value the contributions made by our community of developers. If you would like to see the list of contributors to the IA Hispano website, you can view the graphical representation of contributions using the image below:
