@@ -39,3 +39,7 @@ body {
   -ms-overflow-style: none; /* IE 11 */
   scrollbar-width: none; /* Firefox 64 */
 }
+/* transition animation */
+@keyframes fade-in {
+  from { opacity: 0; }
+}
