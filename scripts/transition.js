@@ -1,4 +1,4 @@
-import { getPageContent, onLinkNavigate } from '../utils.js';
+import { getPageContent, onLinkNavigate } from '../scripts/utils.js';
 
 onLinkNavigate(async ({ toPath }) => {
   const content = await getPageContent(toPath);
