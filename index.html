@@ -40,7 +40,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="./public/favicon_ico.ico" type="image/x-icon" />
     <link rel="icon" href="./public/favicon_ico.ico" />
-
+    <script src="./scripts/menuMobile.js"></script>
     <title>IA Hispano</title>
   </head>
   <body>
@@ -56,14 +56,18 @@
       <div class="rectangle-div"></div>
       <div class="texto-izq">
         <b class="build-your-next">Lleva la música al siguiente nivel</b>
+        <div class="desktop-only">
         <div class="create-custom-landin">
           Clona y transforma tu voz con nuestro revolucionario programa. Haz
           covers de tus canciones favoritas, realiza conversiones de voz en
           tiempo real y explora un mundo lleno de creatividad.
         </div>
       </div>
+      </div>
       <div class="bg-wrapper">
+        <div class="desktop-only">
         <div class="bg"></div>
+      </div>
       </div>
       <div class="ia-hispano-wrapper">
         <b class="ia-hispano">IA Hispano</b>
@@ -73,6 +77,8 @@
           <a href="mailto:contacto@iahispano.com">¡Contáctanos!</a>
         </b>
       </div>
+
+      <div class="desktop-only">
       <div class="demos-pages-support-parent">
         <b class="demos-pages-support">Inicio</b>
         <a href="servicios.html" class="demos-pages-support1">Servicios</a>
@@ -80,6 +86,30 @@
         <div class="demos-pages-support1">Sobre nosotros</div>
         <div class="demos-pages-support1">FAQ</div>
       </div>
+    </div>
+     <!-- Mobile Navbar -->
+
+        <div class="menu-toggle">
+          <div class="icon"></div>
+        </div>
+
+        <div class="mobile-menu">
+          <div class="mobile-menu-content">
+            <div class="mobile-only">
+            <button class="close-button">X</button>
+            </div>
+            <div class="nav-item"><a href="servicios.html">Servicios</a></div>
+            <div class="nav-item"><a href="faq.html">FAQ</a></div>
+            <div class="nav-item"><a href="videos.html">Vídeos</a></div>
+            <div class="nav-item"><a href="modelos.html">Modelos</a></div>
+            <div class="nav-item"><a href="enlaces.html">Enlaces</a></div>
+            <div class="nav-item"><a href="blog.html">Blog</a></div>
+            <div class="nav-item"><a href="nosotros.html">Sobre nosotros</a></div>
+          </div>
+        </div>
+
+  <!-- Navbar End -->
+
       <div class="cta">
         <div class="rectangle"></div>
         <b class="save-tons-of">¡Se parte de nuestra comunidad!</b>
@@ -102,7 +132,7 @@
           src="./public/arrowrightup.svg"
         />
 
-        <b class="nuestra-comunidad">Nuestra comunidad</b>
+        <b class="nuestra-comunidad">Nuestra comunidad</b> 
       </a>
       <div class="inicio-child1"></div>
       <img class="group-icon" alt="" src="./public/group-162528.svg" />

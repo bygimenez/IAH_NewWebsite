@@ -384,3 +384,38 @@ button {
   text-decoration: none;
 }
 
+
+@media (max-width: 768px) {
+
+.build-your-next {
+  font-size: 80px;
+  max-width: 80px;
+  line-height: 80px !important;
+}
+.texto-izq  {
+  top: 140px !important;
+  margin-left: 10px;
+  left: 10px !important;
+  padding: 20px;
+}
+.create-custom-landin {
+  margin-top: 500px;
+  max-width: 200px; 
+}
+.ia-hispano-wrapper {
+  left: 20px !important;
+}
+.boton-ncomunidad {
+  left: 140px !important;
+  top: 700px !important;
+}
+.create-custom-landin {
+  text-align: center;
+  right: 100px  !important;
+}
+
+.loader{
+  top: 50% !important;
+}
+
+}
