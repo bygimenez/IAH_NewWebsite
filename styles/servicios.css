@@ -114,11 +114,11 @@
 .demos-pages-support {
   position: relative;
   letter-spacing: -0.5px;
-  color: #fff !important;
+  color: #5865f2;
 }
 .demos-pages-support1 {
   position: relative;
-  color: #5865f2;
+  color: #fff;
 }
 .demos-pages-support2 {
   position: relative;
@@ -140,17 +140,6 @@
   text-align: right;
   font-size: var(--font-size-lg);
   color: #fff !important;
-}
-.bg {
-  height: 104.76%;
-  width: 101.09%;
-  top: -2.38%;
-  right: -0.55%;
-  bottom: -2.38%;
-  left: -0.55%;
-  border-radius: 10px;
-  border: 2px solid var(--color-white);
-  box-sizing: border-box;
 }
 .boton-contactanos {
   position: absolute;
@@ -458,26 +447,38 @@
   font-family: var(--font-inter);
 }
 .contctanos,
-.texto-contactanos {
+.contctanos-wrapper {
   position: absolute;
   width: 165px;
   height: 31px;
-  color: #FFFFFF;
-  top: 46px;
-  left: 1649px;
-  text-align: center;
-  font-size: var(--font-size-lgi);
 }
 .contctanos {
-  top: 0;
+  top: -5px;
   left: 0;
+  line-height: 140%;
   display: flex;
   align-items: center;
   justify-content: center;
-  color:  #fff;
+  color: #FFF;
+  text-decoration: none;
+}
+.contctanos-wrapper {
+  top: 46px;
+  left: 1649px;
+  text-align: center;
+  font-size: 19px;
 }
 
 .luz {
 
   height: 600px;
+}
+@media (max-width: 1919px) {
+  .servicios {
+    height: 100%; /* Ajustar la altura automáticamente según el contenido */
+    padding: 20px; /* Agregar espacio interno para que los contenidos respiren */
+  }
+  .contctanos {
+  display: none !important;
+}
 }
