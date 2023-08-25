@@ -389,7 +389,7 @@ button {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 824px) {
 
 .build-your-next {
   font-size: 70px;
@@ -409,10 +409,6 @@ button {
 .ia-hispano-wrapper {
   left: 20px !important;
 }
-.boton-ncomunidad {
-  left: 120px !important;
-  top: 700px !important;
-}
 .create-custom-landin {
   text-align: center;
   right: 100px  !important;
@@ -422,4 +418,57 @@ button {
   top: 50% !important;
 }
 
+}
+
+@media (min-width: 1201px) {
+
+  .contctanos-wrapper {
+    display: none !important;
+  }
+  .bg {
+    display: none !important;
+  }
+  .none-image {
+    display: none !important;
+  }
+
+}
+@media (min-width: 1919px) {
+
+  .contctanos-wrapper {
+    display: block !important;
+  }
+  .bg {
+    display: block !important;
+  }
+  .none-image {
+    display: block !important;
+  }
+
+}
+@media (min-width: 599px) {
+  .build-your-next {
+    max-width: 550px !important;
+    top: 50% !important;
+  }
+
+}
+@media (min-width: 800px) {
+  .build-your-next {
+    max-width: none !important;
+  }
+
+}
+@media (min-width: 825px) {
+  .build-your-next {
+    top: 0 !important;
+  }
+
+}
+@media (max-width: 1919px) {
+  .boton-ncomunidad {
+    position: fixed !important;
+    right: 20px !important;
+    left: unset !important;
+  }
 }
